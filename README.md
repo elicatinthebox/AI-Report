@@ -1,0 +1,2 @@
+
+Educational resources about AI
