@@ -1,6 +1,6 @@
 # NLP Chatbot
 
-**Autore: [Elisa Romondia](www.elisaromondia.it)**
+**Autore: [Elisa Romondia](https://www.elisaromondia.it/)**
 
 <sub>Aggiornato *(21.04.2023)*</sub>
 
@@ -26,7 +26,7 @@ Ad oggi, un chatbot NLP che includa il processo generativo (NLG) è quanto di pi
 
 Secondo l’esigenza di poter interrogare un db e fornire una risposta all’utente che interagisce con il chatbot, un chatbot di questo tipo è ad oggi la soluzione che consente la maggiore possibilità di interpretare una domanda scritta in linguaggio umano in forma di codice, interagire con il db, trasformare nuovamente il risultato in linguaggio umano e fornire una risposta all’utente.
 
-<sub>***Per approfondire: [blogspot: querying data using Azure AI](https://medium.com/microsoftazure/querying-structured-data-with-azure-openai-e59ee43867e5), [infoq](https://www.infoq.com/news/2023/03/azure-openai-chatgpt-preview/), [codex](https://openai.com/blog/openai-codex)***</sub>
+<sub>***Per approfondire: [querying data using Azure AI](https://medium.com/microsoftazure/querying-structured-data-with-azure-openai-e59ee43867e5), [infoq](https://www.infoq.com/news/2023/03/azure-openai-chatgpt-preview/), [codex](https://openai.com/blog/openai-codex)***</sub>
 
 Questo risultato è ottenibile di base con modelli come [GPT 3.5](https://platform.openai.com/docs/models/gpt-3-5) o [GPT 4](https://platform.openai.com/docs/models/gpt-4) senza necessità di fine tuning (addestramento personalizzato), poiché già addestrati a questa abilità.
 
