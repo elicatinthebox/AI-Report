@@ -1,6 +1,6 @@
 # NLP Chatbot
 
-**[elisaromondia.it](https://www.elisaromondia.it/)**
+[elisaromondia.it](https://www.elisaromondia.it/)
 
 <sub>Aggiornato *(21.04.2023)*</sub>
 
