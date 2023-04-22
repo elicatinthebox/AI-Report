@@ -12,7 +12,7 @@
 
 ------
 
-#### Costi [source](https://openai.com/pricing)
+### Costi [source](https://openai.com/pricing)
 Il costo del servizio viene calcolato per 1,000 token. Token sono intesi come porzioni di testo. 1,000 token equivalgono circa a 750 parole. E' possibile utilizzare un tool online chiamato "Tokenizer" per capire come specifiche porzioni di testo vengono tokenizzate: [Tokenizer](https://platform.openai.com/tokenizer)
 
 **GPT-4**: Sulla base di un'ampia conoscenza di base su differenti domini, l'utima versione di GPT (GPT 4) può seguire istruzioni complesse in linguaggio naturale e risolvere problemi difficili con precisione. 
@@ -31,7 +31,7 @@ Il costo del servizio viene calcolato per 1,000 token. Token sono intesi come po
 
 ------
 
-#### Scalabilità
+### Scalabilità
 
 Come dichiarato nella pagina del princing di OpenAI, è ad oggi possibile iniziare una fase di *sperimentazione con un credito gratuito di $5 per i primi 3 mesi*. 
 
@@ -40,7 +40,7 @@ La sperimentazione consente di valutare quale modello meglio si adatta alle esig
 
 ------ 
 
-#### Approfondimento: Fine tuning
+### Approfondimento: Fine tuning
 
 I modelli di GPT sono pre-addestrati su una grande quantità di testo disponibile in quello che viene definito "internet aperto". Quando viene fornito un prompt con pochi esempi, spesso può intuire quale attività si sta tentando di eseguire e generare un completamento plausibile (apprendimento detto "few-shot learning"). 
 
@@ -63,7 +63,7 @@ Per modelli specializzati, l'applicazione del fine-tuning segue tre momenti:
 
 ------
 
-#### Approfondimento: set di dati per l'addestramento
+### Approfondimento: set di dati per l'addestramento
 
 I dati devono essere nel formato [JSONL document](https://jsonlines.org/), dove *ogni riga è una coppia **prompt-completamento** corrispondente a un esempio di addestramento*. Attualmente OpenAI fornisce un tool chiamato [CLI data preparation tool](https://platform.openai.com/docs/guides/fine-tuning/cli-data-preparation-tool) per facilitare la conversione dei dati nel formato richiesto (JSONL).
 
@@ -72,7 +72,7 @@ Open AI suggerisce per completare il fine tuning di un modello di fornire una se
 
 ------
 
-#### Casi d'uso
+### Casi d'uso
 1. **Esempio di fine tuning classification [Notebook](https://github.com/openai/openai-cookbook/blob/main/examples/Fine-tuned_classification.ipynb)**. Modello in grado di classificare se una parte di testo di input è correlata al Baseball o all' Hockey.
 
 
