@@ -7,15 +7,15 @@
 
 <sub>*[Versioni precedenti](https://gist.github.com/elicatinthebox/b93c3930e603e39beedf72b82604f1ef)*</sub>
 
-### GPT Open AI 
+### GPT Open AI [source](https://openai.com/product/gpt-4)
+
 
 ------
 
 #### Costi [source](https://openai.com/pricing)
 Il costo del servizio viene calcolato per 1,000 token. Token sono intesi come porzioni di testo. 1,000 token equivalgono circa a 750 parole. E' possibile utilizzare un tool online chiamato "Tokenizer" per capire come specifiche porzioni di testo vengono tokenizzate: [Tokenizer](https://platform.openai.com/tokenizer)
 
-**GPT-4**: Sulla base di un'ampia conoscenza di base su differenti domini, l'utima versione di GPT (GPT 4) può seguire istruzioni complesse in linguaggio naturale e risolvere problemi difficili con precisione. [source](https://openai.com/product/gpt-4)
-
+**GPT-4**: Sulla base di un'ampia conoscenza di base su differenti domini, l'utima versione di GPT (GPT 4) può seguire istruzioni complesse in linguaggio naturale e risolvere problemi difficili con precisione. 
 | Model  | Prompt  |  Completion |
 |---|---|---|
 | 8K context	| $0.03 / 1K tokens | $0.06 / 1K tokens | 
