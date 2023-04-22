@@ -1,4 +1,4 @@
-# Report GPT OPEN AI
+
 [elisaromondia.it](https://www.elisaromondia.it) 
 
 <sub>Aggiornato *(21.04.2023)*</sub>
@@ -6,7 +6,7 @@
 
 <sub>*[Versioni precedenti](https://gist.github.com/elicatinthebox/b93c3930e603e39beedf72b82604f1ef)*</sub>
 
-### GPT OpenAI [source](https://openai.com/product/gpt-4)
+### GPT Open AI [source](https://openai.com/product/gpt-4)
 
 ------
 
