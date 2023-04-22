@@ -41,7 +41,7 @@ L’uso di un modello NLP non generativo presenta il vantaggio rispetto a modell
 ---
 ## **Sperimentazione in locale**
 
-È possibile a scopo sperimentale, la prova in locale sia di modelli generativi che di modelli NLP base, tuttavia, nel primo caso è ad oggi possibile solo con modelli che hanno capacità ridotte rispetto a modelli come GPT4. Secondo la mia esperienza per la sperimentazione in locale le opzioni migliori sono:
+È possibile la sperimentazione in locale sia di modelli generativi che di modelli NLP base, tuttavia, nel primo caso è ad oggi possibile solo con modelli che hanno capacità ridotte rispetto a modelli come GPT4. Secondo la mia esperienza per la sperimentazione in locale le opzioni migliori sono:
 
 **Chatbot NLP non generativi:**
 
