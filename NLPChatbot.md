@@ -67,7 +67,7 @@ Questo per un modello generativo limitato come llama.ccp, tuttavia è possibile 
 
 <sub>***Per approfondire:  [Running dolly2 locally](https://huggingface.co/databricks/dolly-v2-12b/discussions/27)***</sub>
 
-Da notare che progetti open source disponibili ad uso gratuito, hanno il vantaggio di non avere costi per l’uso degli stessi in sperimentazione ma non significa che non abbiano vincoli di licenze. Inoltre, chi mantiene vivo ad oggi il progetto può decidere domani di non renderlo più pubblico e non non ne garantisce la funzionalità nel tempo. Il rischio di investire risorse in strumenti che non possono garantire una continuità è elevato ed il mio consiglio è di valutare una sperimentazione di questo tipo solo in una fase esplorativa.
+Da notare che progetti open source disponibili ad uso gratuito, hanno il vantaggio di non avere costi per l’utilizzo degli stessi ma non significa che non abbiano vincoli di licenze. Inoltre, chi mantiene vivo ad oggi il progetto può decidere domani di non renderlo più pubblico e non non ne garantisce la funzionalità nel tempo. Il rischio di investire risorse in strumenti che non possono garantire una continuità è elevato ed il mio consiglio è di valutare una sperimentazione di questo tipo solo in una fase esplorativa.
 
 Per un eventuale fine tuning, che è la fase più critica e costosa in termini di risorse, il mio consiglio è quello di affidarsi a servizi cloud cercando di ridurre così al minimo il rischio di bruciare risorse.
 
