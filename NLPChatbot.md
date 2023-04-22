@@ -48,8 +48,9 @@ L’uso di un modello NLP non generativo presenta il vantaggio rispetto a modell
 
 * **[Microsoft Bot Framework Composer](https://github.com/microsoft/BotFramework-Composer/blob/main/README.md)** *(in questo caso Microsoft predispone la possibilità di implementare opzionalmente anche un NLP generativo).*
 * **[ProjectAna](https://github.com/nowfloats/ProjectAna)**
+* **[Tock](https://doc.tock.ai/tock/en/)**
 
-Entrambe sono soluzioni open source sperimentabili in locale con un'interfaccia grafica che consente la possibilità senza la scrittura di codice di creare un chatbot, impostare flussi ed insegnare dialoghi e testare le abilità con una chat di test. Per l’integrazione con un database è possibile il test in locale ma è necessaria la capacità di gestione di APIs e server per poter far comunicare il chatbot con il db desiderato.
+Tutte le soluzioni elencate sono open source, sperimentabili in locale, con la possibilità di usufruire di un'interfaccia grafica che consente di creare un chatbot e testestarlo senza la necessità di scrivere codice. Per l’integrazione con un database è possibile il test in locale ma è necessaria la capacità di gestione di APIs e server per poter far comunicare il chatbot con il db desiderato.
 
 **Chatbot NLP generativi:**
 
