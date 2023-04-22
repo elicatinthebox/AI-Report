@@ -45,19 +45,19 @@ I modelli di GPT sono pre-addestrati su una grande quantità di testo disponibil
 
 Il fine-tuning è una tecnica che consente di creare modelli custom aderenti a specifici casi d'uso. Questa tecnica migliora l'apprendimento detto "few-shot learning" allenando il modello su molti più esempi di quelli che possono essere inseriti nel prompt, consentendo di ottenere risultati migliori su un ampio numero di attività. In sintesi: 
 
- * Risposte di qualità superiori poiché basati su set di dati specifici e non generali
- * Capacità di allenare il modello su più esempi di quelli che possono stare in un prompt
- * Una volta che un modello è stato messo a punto, non sarà più necessario fornire esempi nel prompt
- * Risparmio di risorse, minor numero di token grazie alla possibilità di  prompt ridotti
- * Richieste più veloci (minore latenza)
+ > * Risposte di qualità superiori poiché basati su set di dati specifici e non generali
+ > * Capacità di allenare il modello su più esempi di quelli che possono stare in un prompt
+ > * Una volta che un modello è stato messo a punto, non sarà più necessario fornire esempi nel prompt
+ > * Risparmio di risorse, minor numero di token grazie alla possibilità di  prompt ridotti
+ > * Richieste più veloci (minore latenza)
 
 
 
 Per modelli specializzati, l'applicazione del fine-tuning segue tre momenti: 
 
- 1. Preparare e caricare i set di dati per il training del modello
- 2. Addestramento del nuovo modello custom
- 3. Fine-tuned model pronto all'uso
+ > 1. Preparare e caricare i set di dati per il training del modello
+ > 2. Addestramento del nuovo modello custom
+ > 3. Fine-tuned model pronto all'uso
 
 
 ------
