@@ -22,7 +22,7 @@ Il costo del servizio viene calcolato per 1,000 token. Token sono intesi come po
 | 32K context	| $0.06 / 1K tokens | $0.12 / 1K tokens |   
 
 
-**Fine-tuning models**: E' possibile personalizzare la conoscenza di base dei modelli su campioni di dati specifici utilizzando la tecnica del fine tuning fino a creare modelli custom.  
+**Fine-tuning models**: È possibile personalizzare la conoscenza di base dei modelli su campioni di dati specifici utilizzando la tecnica del fine tuning fino a creare modelli custom.  
 
 | Model  | Training  |  Usage |
 |---|---|---|
