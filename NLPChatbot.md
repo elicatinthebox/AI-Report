@@ -48,7 +48,7 @@ L’uso di un modello NLP non generativo presenta il vantaggio rispetto a modell
 
 * **[Microsoft Bot Framework Composer](https://github.com/microsoft/BotFramework-Composer/blob/main/README.md)** *(in questo caso Microsoft predispone la possibilità di implementare opzionalmente anche un NLP generativo).*
 * **[ProjectAna](https://github.com/nowfloats/ProjectAna)**
-* **[Tock]([https://doc.tock.ai/tock/en/](https://github.com/theopenconversationkit/tock))**
+* **[Tock][https://doc.tock.ai/tock/en/](https://github.com/theopenconversationkit/tock)**
 
 Tutte le soluzioni elencate sono open source, sperimentabili in locale, con la possibilità di usufruire di un'interfaccia grafica che consente di creare un chatbot e testestarlo senza la necessità di scrivere codice. Per l’integrazione con un database è possibile il test in locale ma è necessaria la capacità di gestione di API e server per poter far comunicare il chatbot con il db desiderato.
 
