@@ -6,7 +6,7 @@
 
 
 ---
-### **La scelta del modello**
+## **La scelta del modello**
 
 Per la progettazione di NLP Chatbot che possa interagire in lettura con un database è necessario capire quale sia il livello di “feeling umano” che si vuole ottenere, per questo è necessaria una scelta fra i livelli di complessità di un **modello NLP (natural language processing)**:
 
@@ -39,7 +39,7 @@ L’uso di un modello NLP non generativo presenta il vantaggio rispetto a modell
 
 
 ---
-### **Sperimentazione in locale**
+## **Sperimentazione in locale**
 
 E’ possibile a scopo sperimentale, la prova in locale sia di modelli generativi che di modelli NLP base, tuttavia, nel primo caso è ad oggi possibile solo con modelli che hanno capacità ridotte rispetto a modelli come GPT4. Secondo la mia esperienza per la sperimentazione in locale le opzioni migliori sono:
 
@@ -72,7 +72,7 @@ Per un eventuale fine tuning, che è la fase più critica e costosa in termini d
 
 
 ---
-### **Esempi di soluzioni per uso commerciale**
+## **Esempi di soluzioni per uso commerciale**
 
 * **Servizi AI Cloud:**
 
