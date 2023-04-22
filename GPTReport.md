@@ -66,7 +66,7 @@ Per modelli specializzati, l'applicazione del fine-tuning segue tre momenti:
 
 I dati devono essere nel formato [JSONL document](https://jsonlines.org/), dove *ogni riga è una coppia **prompt-completamento** corrispondente a un esempio di addestramento*. Attualmente OpenAI fornisce un tool chiamato [CLI data preparation tool](https://platform.openai.com/docs/guides/fine-tuning/cli-data-preparation-tool) per facilitare la conversione dei dati nel formato richiesto (JSONL).
 
-Open AI suggerisce per completare il fine tuning di un modello di fornire una serie di dati di addestramento composta da *almeno alcune centinaia di esempi di addestramento costituiti ciascuno da *un singolo input **("prompt")** e dall'output associato **("completamento")**.* Linearmente con ogni raddoppio del numero di esempi, le prestazioni tendono ad aumentare. Aumentare il numero di esempi è di solito il modo migliore e più affidabile per migliorare le prestazioni.
+Open AI suggerisce per completare il fine tuning di un modello di fornire una serie di dati di addestramento composta da *almeno alcune centinaia* di esempi di addestramento costituiti ciascuno da *un singolo input **("prompt")** e dall'output associato **("completamento")**.* Linearmente con ogni raddoppio del numero di esempi, le prestazioni tendono ad aumentare. Aumentare il numero di esempi è di solito il modo migliore e più affidabile per migliorare le prestazioni.
 
 
 ------
