@@ -10,7 +10,7 @@
 
 ------
 
-#### Costi
+#### Costi [source](https://openai.com/pricing)
 Il costo del servizio viene calcolato per 1,000 token. Token sono intesi come porzioni di testo. 1,000 token equivalgono circa a 750 parole. E' possibile utilizzare un tool online chiamato "Tokenizer" per capire come specifiche porzioni di testo vengono tokenizzate: [Tokenizer](https://platform.openai.com/tokenizer)
 
 **GPT-4**: Sulla base di un'ampia conoscenza di base su differenti domini, l'utima versione di GPT (GPT 4) può seguire istruzioni complesse in linguaggio naturale e risolvere problemi difficili con precisione.
@@ -32,7 +32,7 @@ Il costo del servizio viene calcolato per 1,000 token. Token sono intesi come po
 
 #### Scalabilità
 
-Come dichiarato nella pagina del princing di OpenAI, è ad oggi possibile iniziare una fase di *sperimentazione con un credito gratuito di $5 per i primi 3 mesi*. [source](https://openai.com/pricing)
+Come dichiarato nella pagina del princing di OpenAI, è ad oggi possibile iniziare una fase di *sperimentazione con un credito gratuito di $5 per i primi 3 mesi*. 
 
 La sperimentazione consente di valutare quale modello meglio si adatta alle esigenze del progetto dando la possibilità di testare i differenti modelli con relative capacità e costi. Dopo la prova è previsto un pagamento calcolato sull'uso effettivo delle risorse *(pay as you go)*.
 
