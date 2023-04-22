@@ -34,7 +34,7 @@ Il costo del servizio viene calcolato per 1,000 token. Token sono intesi come po
 
 Come dichiarato nella pagina del princing di OpenAI, è ad oggi possibile iniziare una fase di *sperimentazione con un credito gratuito di $5 per i primi 3 mesi*. [source](https://openai.com/pricing)
 
-La sperimentazione consente di valutare al meglio quale modello meglio si adatta alle esigenze del progetto dando la possibilità di testare i differenti modelli con relative capacità e costi. Dopo la prova è previsto un pagamento calcolato sull'uso effettivo delle risorse *(pay as you go)*.
+La sperimentazione consente di valutare quale modello meglio si adatta alle esigenze del progetto dando la possibilità di testare i differenti modelli con relative capacità e costi. Dopo la prova è previsto un pagamento calcolato sull'uso effettivo delle risorse *(pay as you go)*.
 
 
 ------ 
